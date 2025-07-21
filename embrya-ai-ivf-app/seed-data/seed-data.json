@@ -1,0 +1,76 @@
+{
+  "users": [
+    {
+      "id": "1",
+      "name": "Admin User",
+      "email": "admin@clinic.com",
+      "role": "Admin"
+    },
+    {
+      "id": "2",
+      "name": "Doctor User",
+      "email": "doctor@clinic.com",
+      "role": "Doctor"
+    },
+    {
+      "id": "3",
+      "name": "Nurse User",
+      "email": "nurse@clinic.com",
+      "role": "Nurse"
+    },
+    {
+      "id": "4",
+      "name": "Embryologist User",
+      "email": "embryologist@clinic.com",
+      "role": "Embryologist"
+    },
+    {
+      "id": "5",
+      "name": "Andrologist User",
+      "email": "andrologist@clinic.com",
+      "role": "Andrologist"
+    },
+    {
+      "id": "6",
+      "name": "GeneticScientist User",
+      "email": "geneticscientist@clinic.com",
+      "role": "GeneticScientist"
+    },
+    {
+      "id": "7",
+      "name": "AdminStaff User",
+      "email": "adminstaff@clinic.com",
+      "role": "AdminStaff"
+    },
+    {
+      "id": "8",
+      "name": "Cryostorage User",
+      "email": "cryostorage@clinic.com",
+      "role": "Cryostorage"
+    },
+    {
+      "id": "9",
+      "name": "DonorSperm User",
+      "email": "donorsperm@clinic.com",
+      "role": "DonorSperm"
+    },
+    {
+      "id": "10",
+      "name": "QA User",
+      "email": "qa@clinic.com",
+      "role": "QA"
+    },
+    {
+      "id": "11",
+      "name": "Patient User",
+      "email": "patient@clinic.com",
+      "role": "Patient"
+    },
+    {
+      "id": "12",
+      "name": "SystemAdmin User",
+      "email": "systemadmin@clinic.com",
+      "role": "SystemAdmin"
+    }
+  ]
+}
